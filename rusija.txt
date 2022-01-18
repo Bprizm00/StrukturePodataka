@@ -1,0 +1,3 @@
+Moskva 12000000
+Saint Petersburg 4900000
+Kazan 1110000
